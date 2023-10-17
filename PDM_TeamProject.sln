@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDM_TeamProject", "PDM_TeamProject\PDM_TeamProject.csproj", "{C170C7F0-4C20-4179-920F-FE2D979BC3A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C170C7F0-4C20-4179-920F-FE2D979BC3A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C170C7F0-4C20-4179-920F-FE2D979BC3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C170C7F0-4C20-4179-920F-FE2D979BC3A9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C170C7F0-4C20-4179-920F-FE2D979BC3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C170C7F0-4C20-4179-920F-FE2D979BC3A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C170C7F0-4C20-4179-920F-FE2D979BC3A9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A94A8300-14EB-4DD2-A470-F67C2DA8CF9C}
+	EndGlobalSection
+EndGlobal
