@@ -28,6 +28,54 @@ build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.MainPage.x
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
+[C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/Pages/AboutUsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.Pages.AboutUsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AboutUsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AboutUsPage.xaml
+
+[C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/Pages/AddSeriesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.Pages.AddSeriesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AddSeriesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AddSeriesPage.xaml
+
+[C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/Pages/BrowserSeriesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.Pages.BrowserSeriesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\BrowserSeriesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\BrowserSeriesPage.xaml
+
+[C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/Pages/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.Pages.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MainPage.xaml
+
+[C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/Pages/MyListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.Pages.MyListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MyListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MyListPage.xaml
+
+[C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/Pages/SeriesDetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.Pages.SeriesDetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SeriesDetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SeriesDetailsPage.xaml
+
+[C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/Pages/SettingsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.Pages.SettingsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SettingsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SettingsPage.xaml
+
+[C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/Pages/StatisticsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.Pages.StatisticsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\StatisticsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\StatisticsPage.xaml
+
 [C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.Resources.Styles.Colors.xaml
