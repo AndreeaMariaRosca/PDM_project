@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+namespace PDM_TeamProject.Pages;
 
-namespace PDM_TeamProject.Pages
+public partial class MyListPage : ContentView
 {
-    internal class MyListPage
-    {
-    }
+	public MyListPage()
+	{
+		InitializeComponent();
+	}
 }
