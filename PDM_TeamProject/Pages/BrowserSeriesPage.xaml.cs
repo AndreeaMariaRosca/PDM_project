@@ -1,9 +1,11 @@
-namespace PDM_TeamProject.Pages;
 
-public partial class BrowserSeriesPage : ContentView
+namespace PDM_TeamProject
 {
-	public BrowserSeriesPage()
-	{
-		InitializeComponent();
-	}
+    public partial class BrowserSeriesPage : ContentPage
+    {
+        public BrowserSeriesPage()
+        {
+        }
+
+    }
 }
