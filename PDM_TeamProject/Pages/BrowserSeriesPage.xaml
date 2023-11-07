@@ -2,13 +2,43 @@
 
         <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="PDM_TeamProject.BrowserSeriesPage"
+             x:Class="PDM_TeamProject.Pages.BrowserSeriesPage"
              Title="All series review">
-              <Button
-                x:Name="AllSeriesListBtnn"
-                Text="hey"
-                SemanticProperties.Hint="Redirects to the page with all the series"
-                HorizontalOptions="Center" />
+    <StackLayout>
+        <ListView
+            x:Name="listViewTvSeries"
+            HasUnevenRows="True"
+            ItemSelected="ListViewTvSeries_ItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid RowDefinitions="3*,1*" ColumnDefinitions="1*,4*,1*" Padding="10" ColumnSpacing="10">
+                            <Image MaximumHeightRequest="250" MaximumWidthRequest="200" Grid.RowSpan="3" HorizontalOptions="End">
+                                <Image.Source>
+                                    <UriImageSource Uri="{Binding poster_path, StringFormat='https://image.tmdb.org/t/p/w200/{0}'}" CacheValidity="1" CachingEnabled="true"/>
+                                </Image.Source>
+                            </Image>
+
+                            <VerticalStackLayout Grid.Row="0"  Grid.Column="1">
+                                <Label FontAttributes="Bold" FontSize="Large" HorizontalOptions="Start">
+                                    <Label.Text>
+                                        <Binding Path="name"/>
+                                    </Label.Text>
+                                </Label>
+
+                                <Label Text="{Binding popularity, StringFormat='Popularity: {0:0}'}" FontAttributes="Bold" FontSize="Medium"/>
+
+                                <Label Text="{Binding vote_average, StringFormat='Vote average: {0:0.0}'}" FontAttributes="Bold" FontSize="Medium"/>
+                                <Label Text="{Binding first_air_date, StringFormat='First air date: {0:0.0}'}" FontAttributes="Bold" FontSize="Medium"/>
+                            </VerticalStackLayout>
+
+                            <Button Text="Add" FontAttributes="Bold" FontSize="Medium" Grid.Row="1" Grid.Column="2" Clicked="AddButton_Clicked"/>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
 </ContentPage>
 
 
