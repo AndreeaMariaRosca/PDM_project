@@ -2,6 +2,7 @@ using PDM_TeamProject.ViewModels;
 
 namespace PDM_TeamProject.Pages;
 
+[QueryProperty(nameof(ReviewId), nameof(reviewId))]
 public partial class AddReview : ContentPage
 {
     public AddReviewViewModel vm;
@@ -12,14 +13,14 @@ public partial class AddReview : ContentPage
         this.BindingContext = vm = viewModel;
     }
 
-    public string employeeId { get; set; }
-    public string EmployeeId
+    public string reviewId { get; set; }
+    public string ReviewId
     {
-        get => employeeId;
+        get => reviewId;
         set
         {
-            employeeId = value;
-            //BindingContext = vm = new AddReviewViewModel(int.Parse(Uri.UnescapeDataString(value)));
+            reviewId = value;
+            /*BindingContext = vm = new AddReviewViewModel(int.Parse(Uri.UnescapeDataString(value)));*/
         }
     }
 }
