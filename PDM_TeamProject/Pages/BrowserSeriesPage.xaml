@@ -32,7 +32,7 @@
                                 <Label Text="{Binding first_air_date, StringFormat='First air date: {0:0.0}'}" FontAttributes="Bold" FontSize="Medium"/>
                             </VerticalStackLayout>
 
-                            <Button Text="Add" FontAttributes="Bold" FontSize="Medium" Grid.Row="1" Grid.Column="2" Clicked="AddButton_Clicked"/>
+                            <Button Text="Add review " Command="{Binding AddUpdateReviewCommand}" FontAttributes="Bold" FontSize="Medium" Grid.Row="1" Grid.Column="2" Clicked="AddButton_Clicked"/>
                         </Grid>
                     </ViewCell>
                 </DataTemplate>

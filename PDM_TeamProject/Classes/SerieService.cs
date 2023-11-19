@@ -22,9 +22,9 @@ namespace PDM_TeamProject.Classes
             };
         }
 
-        public async Task<List<SerieJson>> GetTvSeries()
+        public async Task<List<TvSerie>> GetTvSeries()
         {
-            List<SerieJson> tvSeries = new List<SerieJson>();
+            List<TvSerie> tvSeries = new List<TvSerie>();
 
             //string UriString = $"{Constants.ApiUri}/movie/popular?api_key={Constants.ApiKey}";
             string UriString = $"https://api.themoviedb.org/3/discover/tv?api_key=4b0a2fb7163ed78a586c2826e03cd05f";

@@ -6,7 +6,7 @@ namespace PDM_TeamProject.Pages;
 public partial class BrowserSeriesPage : ContentPage
 {
     /*SerieService SerieService;*/
-    List<SerieJson> tvSeries = new();
+    List<TvSerie> tvSeries = new();
 
    /* public BrowserSeriesPage(SerieService serieService)
     {
@@ -42,23 +42,8 @@ public partial class BrowserSeriesPage : ContentPage
 
     private async void AddButton_Clicked(object sender, EventArgs e)
     {
-      /*  PopularMovieJson clickedMovie = (PopularMovieJson)((Button)sender).BindingContext;
 
-        Movie movieInMyList = MovieDatabase.Movies.GetMovie(clickedMovie.id);
-        if (movieInMyList != null)
-        {
-            await DisplayAlert("Info", "This movie is already in your list!", "OK");
-            return;
-        }
-
-        MovieDetailsJson movieDetails = await MovieService.GetMovieDetails(clickedMovie.id);
-
-        Dictionary<string, object> dataToPass = new()
-        {
-            { "MovieDetails", movieDetails }
-        };
-
-        await Shell.Current.GoToAsync("AddMoviePage", dataToPass);*/
+        ((Shell)Application.Current.MainPage).GoToAsync("ReviewList");
     }
 
 }

@@ -1,4 +1,7 @@
 ﻿using Microsoft.Extensions.Logging;
+using PDM_TeamProject.Classes;
+using PDM_TeamProject.Pages;
+using PDM_TeamProject.ViewModels;
 
 namespace PDM_TeamProject
 {
@@ -18,8 +21,18 @@ namespace PDM_TeamProject
 #if DEBUG
 		builder.Logging.AddDebug();
 #endif
+            //Services
+            builder.Services.AddSingleton<ReviewService>();
+
+            //Views
+            builder.Services.AddSingleton<ReviewList>();
+            builder.Services.AddTransient<AddReview>();
+
+            //View Models
+            builder.Services.AddSingleton<ReviewsViewModel>();
+            builder.Services.AddTransient<AddReviewViewModel>();
 
             return builder.Build();
         }
     }
-}
+}   

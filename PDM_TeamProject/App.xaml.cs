@@ -14,6 +14,8 @@ namespace PDM_TeamProject
             Routing.RegisterRoute(nameof(BrowserSeriesPage), typeof(BrowserSeriesPage));
             Routing.RegisterRoute(nameof(AddSeriesPage), typeof(AddSeriesPage));
             Routing.RegisterRoute(nameof(SeriesDetailsPage), typeof(SeriesDetailsPage));
+            Routing.RegisterRoute(nameof(AddReview), typeof(AddReview));
+            Routing.RegisterRoute(nameof(ReviewList), typeof(ReviewList));
 
         }
     }

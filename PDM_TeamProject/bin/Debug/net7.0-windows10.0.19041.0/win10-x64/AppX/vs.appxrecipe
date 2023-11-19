@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>83094d14-3de8-4845-ad20-6e7069de46d0</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>5645010516A966A79A3E59184B371F0AA546E953EA85080DA79C7AB4BCC258F1</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>83094d14-3de8-4845-ad20-6e7069de46d0_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>83094d14-3de8-4845-ad20-6e7069de46d0_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,32 +26,32 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-07T20:35:44.938</Modified>
+      <Modified>2023-11-19T17:34:36.751</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-11-07T20:18:43.389</Modified>
+      <Modified>2023-11-19T17:34:36.542</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PDM_TeamProject.runtimeconfig.json">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PDM_TeamProject.runtimeconfig.json">
       <PackagePath>PDM_TeamProject.runtimeconfig.json</PackagePath>
-      <Modified>2023-11-07T19:51:41.269</Modified>
+      <Modified>2023-11-19T15:39:03.023</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PDM_TeamProject.dll">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PDM_TeamProject.dll">
       <PackagePath>PDM_TeamProject.dll</PackagePath>
-      <Modified>2023-11-07T20:35:43.132</Modified>
+      <Modified>2023-11-19T17:34:35.661</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>PDM_TeamProject.exe</PackagePath>
-      <Modified>2023-11-07T20:35:43.148</Modified>
+      <Modified>2023-11-19T17:34:35.668</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PDM_TeamProject.deps.json">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PDM_TeamProject.deps.json">
       <PackagePath>PDM_TeamProject.deps.json</PackagePath>
-      <Modified>2023-11-07T19:51:41.143</Modified>
+      <Modified>2023-11-19T15:39:02.858</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\40770\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.12\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -809,6 +809,10 @@
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2023-06-09T20:10:26.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\40770\.nuget\packages\communitytoolkit.mvvm\8.2.2\lib\net6.0\CommunityToolkit.Mvvm.dll">
+      <PackagePath>CommunityToolkit.Mvvm.dll</PackagePath>
+      <Modified>2023-10-24T20:16:06.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\40770\.nuget\packages\microsoft.extensions.configuration\7.0.0\lib\net7.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
       <Modified>2022-10-18T16:15:22.000</Modified>
@@ -856,6 +860,10 @@
     <AppxPackagedFile Include="C:\Users\40770\.nuget\packages\microsoft.maui.graphics.win2d.winui.desktop\7.0.96\lib\net7.0-windows10.0.19041\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll">
       <PackagePath>Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll</PackagePath>
       <Modified>2023-09-21T18:07:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\40770\.nuget\packages\microsoft.toolkit.mvvm\7.1.2\lib\net5.0\Microsoft.Toolkit.Mvvm.dll">
+      <PackagePath>Microsoft.Toolkit.Mvvm.dll</PackagePath>
+      <Modified>2021-11-18T22:28:58.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\40770\.nuget\packages\microsoft.windowsappsdk\1.2.221209.1\lib\net6.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
       <PackagePath>Microsoft.InteractiveExperiences.Projection.dll</PackagePath>
@@ -957,241 +965,241 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-09-21T14:56:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2023-11-07T19:50:21.806</Modified>
+      <Modified>2023-11-19T13:02:37.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.141</Modified>
+      <Modified>2023-11-19T13:03:49.987</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.141</Modified>
+      <Modified>2023-11-19T13:03:49.989</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.141</Modified>
+      <Modified>2023-11-19T13:03:49.991</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.145</Modified>
+      <Modified>2023-11-19T13:03:49.992</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.145</Modified>
+      <Modified>2023-11-19T13:03:49.995</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2023-11-07T19:50:38.081</Modified>
+      <Modified>2023-11-19T13:03:48.177</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2023-11-07T19:50:38.081</Modified>
+      <Modified>2023-11-19T13:03:48.180</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-11-07T19:50:38.085</Modified>
+      <Modified>2023-11-19T13:03:48.370</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.085</Modified>
+      <Modified>2023-11-19T13:03:48.466</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.085</Modified>
+      <Modified>2023-11-19T13:03:48.468</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.089</Modified>
+      <Modified>2023-11-19T13:03:48.469</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.089</Modified>
+      <Modified>2023-11-19T13:03:48.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.089</Modified>
+      <Modified>2023-11-19T13:03:48.518</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.093</Modified>
+      <Modified>2023-11-19T13:03:48.519</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.093</Modified>
+      <Modified>2023-11-19T13:03:48.520</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.093</Modified>
+      <Modified>2023-11-19T13:03:48.521</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.093</Modified>
+      <Modified>2023-11-19T13:03:48.655</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.093</Modified>
+      <Modified>2023-11-19T13:03:48.656</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.097</Modified>
+      <Modified>2023-11-19T13:03:48.657</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.097</Modified>
+      <Modified>2023-11-19T13:03:48.658</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.097</Modified>
+      <Modified>2023-11-19T13:03:48.711</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.097</Modified>
+      <Modified>2023-11-19T13:03:48.712</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.101</Modified>
+      <Modified>2023-11-19T13:03:48.712</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.101</Modified>
+      <Modified>2023-11-19T13:03:48.713</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.101</Modified>
+      <Modified>2023-11-19T13:03:48.742</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.101</Modified>
+      <Modified>2023-11-19T13:03:48.744</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.105</Modified>
+      <Modified>2023-11-19T13:03:48.745</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.105</Modified>
+      <Modified>2023-11-19T13:03:48.746</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.105</Modified>
+      <Modified>2023-11-19T13:03:48.768</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.105</Modified>
+      <Modified>2023-11-19T13:03:48.769</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.109</Modified>
+      <Modified>2023-11-19T13:03:48.770</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.109</Modified>
+      <Modified>2023-11-19T13:03:48.771</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.109</Modified>
+      <Modified>2023-11-19T13:03:48.993</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.109</Modified>
+      <Modified>2023-11-19T13:03:48.994</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.113</Modified>
+      <Modified>2023-11-19T13:03:48.995</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.113</Modified>
+      <Modified>2023-11-19T13:03:48.996</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.113</Modified>
+      <Modified>2023-11-19T13:03:49.569</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.113</Modified>
+      <Modified>2023-11-19T13:03:49.571</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.117</Modified>
+      <Modified>2023-11-19T13:03:49.571</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.117</Modified>
+      <Modified>2023-11-19T13:03:49.572</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.117</Modified>
+      <Modified>2023-11-19T13:03:49.794</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.117</Modified>
+      <Modified>2023-11-19T13:03:49.795</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.121</Modified>
+      <Modified>2023-11-19T13:03:49.796</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.121</Modified>
+      <Modified>2023-11-19T13:03:49.797</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.121</Modified>
+      <Modified>2023-11-19T13:03:49.842</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.121</Modified>
+      <Modified>2023-11-19T13:03:49.843</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.125</Modified>
+      <Modified>2023-11-19T13:03:49.844</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.125</Modified>
+      <Modified>2023-11-19T13:03:49.860</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.125</Modified>
+      <Modified>2023-11-19T13:03:49.930</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.125</Modified>
+      <Modified>2023-11-19T13:03:49.931</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.129</Modified>
+      <Modified>2023-11-19T13:03:49.932</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.129</Modified>
+      <Modified>2023-11-19T13:03:49.933</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.129</Modified>
+      <Modified>2023-11-19T13:03:49.973</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.133</Modified>
+      <Modified>2023-11-19T13:03:49.975</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.133</Modified>
+      <Modified>2023-11-19T13:03:49.977</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.133</Modified>
+      <Modified>2023-11-19T13:03:49.978</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.137</Modified>
+      <Modified>2023-11-19T13:03:49.981</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\proiect\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-11-07T19:50:38.137</Modified>
+      <Modified>2023-11-19T13:03:49.985</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1e2UcLNYl7Q42pRUufTEdrj7kqpokQMh2nIbD1RfTgzZcbaX3zN1mye8Cop414b8xiG+eh6n5QOStpRpLUrAIg==",
+  "dgSpecHash": "YCZPeABZTIokcMo4ev+vJ/PxpZlbXhLZyCXRyNhRcVwewsryjclzTcI2SSzpiOe1nzsCc6SiZaMMhZ2N+Y0aRQ==",
   "success": true,
-  "projectFilePath": "D:\\facultate\\master\\anul 2\\SIMPRE ANUL 2\\proiect\\PDM_TeamProject\\PDM_TeamProject.csproj",
+  "projectFilePath": "D:\\facultate\\master\\anul 2\\SIMPRE ANUL 2\\bun\\PDM_TeamProject\\PDM_TeamProject.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\40770\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "C:\\Users\\40770\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\40770\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\40770\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
@@ -17,6 +18,7 @@
     "C:\\Users\\40770\\.nuget\\packages\\microsoft.graphics.win2d\\1.0.5.1\\microsoft.graphics.win2d.1.0.5.1.nupkg.sha512",
     "C:\\Users\\40770\\.nuget\\packages\\microsoft.maui.graphics\\7.0.96\\microsoft.maui.graphics.7.0.96.nupkg.sha512",
     "C:\\Users\\40770\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\7.0.96\\microsoft.maui.graphics.win2d.winui.desktop.7.0.96.nupkg.sha512",
+    "C:\\Users\\40770\\.nuget\\packages\\microsoft.toolkit.mvvm\\7.1.2\\microsoft.toolkit.mvvm.7.1.2.nupkg.sha512",
     "C:\\Users\\40770\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
     "C:\\Users\\40770\\.nuget\\packages\\microsoft.windowsappsdk\\1.2.221209.1\\microsoft.windowsappsdk.1.2.221209.1.nupkg.sha512",
