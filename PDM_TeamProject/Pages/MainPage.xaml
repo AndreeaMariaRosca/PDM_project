@@ -1,11 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="PDM_TeamProject.Pages.MainPage">
-              <Button
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <StackLayout Grid.Row="0" Grid.Column="0" HorizontalOptions="Center" VerticalOptions="Center">
+            <Button
                 x:Name="AllSeriesListBtn"
-                Text="All series list"
+                Text="List of series"
                 SemanticProperties.Hint="Redirects to the page with all the series"
                 Clicked="OnAllSeriesListClicked"
-                HorizontalOptions="Center" />
+                HorizontalOptions="CenterAndExpand"
+                VerticalOptions="CenterAndExpand" />
+            <Button
+                x:Name="StatisticsBtn"
+                Text="Statistics"
+                SemanticProperties.Hint="Redirects to the page with the statistics"
+                Clicked="OnStatisticsClicked"
+                HorizontalOptions="CenterAndExpand"
+                VerticalOptions="CenterAndExpand" />
+              <Button
+                x:Name="AboutUsBtn"
+                Text="About us"
+                SemanticProperties.Hint="Redirects to the page with the details about us"
+                Clicked="OnAboutUsClicked"
+                HorizontalOptions="CenterAndExpand"
+                VerticalOptions="CenterAndExpand" />
+        </StackLayout>
+    </Grid>
 </ContentPage>
