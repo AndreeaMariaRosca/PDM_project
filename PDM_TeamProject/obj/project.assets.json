@@ -28328,24 +28328,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\40770\\.nuget\\packages\\": {},
+    "C:\\Users\\rinob\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\facultate\\master\\anul 2\\SIMPRE ANUL 2\\bun\\PDM_TeamProject\\PDM_TeamProject.csproj",
+      "projectUniqueName": "C:\\Users\\rinob\\source\\repos\\PDM_project\\PDM_TeamProject\\PDM_TeamProject.csproj",
       "projectName": "PDM_TeamProject",
-      "projectPath": "D:\\facultate\\master\\anul 2\\SIMPRE ANUL 2\\bun\\PDM_TeamProject\\PDM_TeamProject.csproj",
-      "packagesPath": "C:\\Users\\40770\\.nuget\\packages\\",
-      "outputPath": "D:\\facultate\\master\\anul 2\\SIMPRE ANUL 2\\bun\\PDM_TeamProject\\obj\\",
+      "projectPath": "C:\\Users\\rinob\\source\\repos\\PDM_project\\PDM_TeamProject\\PDM_TeamProject.csproj",
+      "packagesPath": "C:\\Users\\rinob\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rinob\\source\\repos\\PDM_project\\PDM_TeamProject\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\40770\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rinob\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -28512,7 +28512,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       },
       "net7.0-ios16.1": {
         "targetAlias": "net7.0-ios",
@@ -28586,7 +28586,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       },
       "net7.0-maccatalyst16.1": {
         "targetAlias": "net7.0-maccatalyst",
@@ -28661,7 +28661,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       },
       "net7.0-windows10.0.19041": {
         "targetAlias": "net7.0-windows10.0.19041.0",
@@ -28731,11 +28731,11 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-            "version": "[7.0.12, 7.0.12]"
+            "version": "[7.0.13, 7.0.13]"
           },
           {
             "name": "Microsoft.NETCore.App.Runtime.win-x64",
-            "version": "[7.0.12, 7.0.12]"
+            "version": "[7.0.13, 7.0.13]"
           },
           {
             "name": "Microsoft.Windows.SDK.NET.Ref",
@@ -28743,7 +28743,7 @@
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-            "version": "[7.0.12, 7.0.12]"
+            "version": "[7.0.13, 7.0.13]"
           }
         ],
         "frameworkReferences": {
@@ -28763,7 +28763,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

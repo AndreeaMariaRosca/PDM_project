@@ -1,1 +1,1 @@
-D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\PDM_TeamProject.csproj;x64
+C:\Users\rinob\source\repos\PDM_project\PDM_TeamProject\PDM_TeamProject.csproj;x64
