@@ -8,7 +8,7 @@ public partial class ReviewList : ContentPage
 
     public ReviewList(ReviewsViewModel viewModel)
     {
-        // InitializeComponent();
+        InitializeComponent();
 
         _viewModel = viewModel;
 

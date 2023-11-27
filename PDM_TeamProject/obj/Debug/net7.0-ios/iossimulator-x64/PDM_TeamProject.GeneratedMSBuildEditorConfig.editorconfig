@@ -8,87 +8,87 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PDM_TeamProject
-build_property.ProjectDir = C:\Users\andre\source\repos\PDM_TeamProject\PDM_TeamProject\
+build_property.ProjectDir = D:\facultate\master\anul 2\SIMPRE ANUL 2\bun\PDM_TeamProject\
 
-[C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/App.xaml]
+[D:/facultate/master/anul 2/SIMPRE ANUL 2/bun/PDM_TeamProject/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/AppShell.xaml]
+[D:/facultate/master/anul 2/SIMPRE ANUL 2/bun/PDM_TeamProject/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/Pages/AboutUsPage.xaml]
+[D:/facultate/master/anul 2/SIMPRE ANUL 2/bun/PDM_TeamProject/Pages/AboutUsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.Pages.AboutUsPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\AboutUsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\AboutUsPage.xaml
 
-[C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/Pages/AddReview.xaml]
+[D:/facultate/master/anul 2/SIMPRE ANUL 2/bun/PDM_TeamProject/Pages/AddReview.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.Pages.AddReview.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\AddReview.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\AddReview.xaml
 
-[C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/Pages/AddSeriesPage.xaml]
+[D:/facultate/master/anul 2/SIMPRE ANUL 2/bun/PDM_TeamProject/Pages/AddSeriesPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.Pages.AddSeriesPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\AddSeriesPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\AddSeriesPage.xaml
 
-[C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/Pages/BrowserSeriesPage.xaml]
+[D:/facultate/master/anul 2/SIMPRE ANUL 2/bun/PDM_TeamProject/Pages/BrowserSeriesPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.Pages.BrowserSeriesPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\BrowserSeriesPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\BrowserSeriesPage.xaml
 
-[C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/Pages/MainPage.xaml]
+[D:/facultate/master/anul 2/SIMPRE ANUL 2/bun/PDM_TeamProject/Pages/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.Pages.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\MainPage.xaml
 
-[C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/Pages/MyListPage.xaml]
+[D:/facultate/master/anul 2/SIMPRE ANUL 2/bun/PDM_TeamProject/Pages/MyListPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.Pages.MyListPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\MyListPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\MyListPage.xaml
 
-[C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/Pages/ReviewList.xaml]
+[D:/facultate/master/anul 2/SIMPRE ANUL 2/bun/PDM_TeamProject/Pages/ReviewList.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.Pages.ReviewList.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\ReviewList.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\ReviewList.xaml
 
-[C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/Pages/SeriesDetailsPage.xaml]
+[D:/facultate/master/anul 2/SIMPRE ANUL 2/bun/PDM_TeamProject/Pages/SeriesDetailsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.Pages.SeriesDetailsPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\SeriesDetailsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\SeriesDetailsPage.xaml
 
-[C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/Pages/SettingsPage.xaml]
+[D:/facultate/master/anul 2/SIMPRE ANUL 2/bun/PDM_TeamProject/Pages/SettingsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.Pages.SettingsPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\SettingsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\SettingsPage.xaml
 
-[C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/Pages/StatisticsPage.xaml]
+[D:/facultate/master/anul 2/SIMPRE ANUL 2/bun/PDM_TeamProject/Pages/StatisticsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.Pages.StatisticsPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\StatisticsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\StatisticsPage.xaml
 
-[C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/Resources/Styles/Colors.xaml]
+[D:/facultate/master/anul 2/SIMPRE ANUL 2/bun/PDM_TeamProject/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/andre/source/repos/PDM_TeamProject/PDM_TeamProject/Resources/Styles/Styles.xaml]
+[D:/facultate/master/anul 2/SIMPRE ANUL 2/bun/PDM_TeamProject/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PDM_TeamProject.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

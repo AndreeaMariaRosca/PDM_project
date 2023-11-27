@@ -28328,24 +28328,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\andre\\.nuget\\packages\\": {},
+    "C:\\Users\\40770\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\source\\repos\\PDM_TeamProject\\PDM_TeamProject\\PDM_TeamProject.csproj",
+      "projectUniqueName": "D:\\facultate\\master\\anul 2\\SIMPRE ANUL 2\\bun\\PDM_TeamProject\\PDM_TeamProject.csproj",
       "projectName": "PDM_TeamProject",
-      "projectPath": "C:\\Users\\andre\\source\\repos\\PDM_TeamProject\\PDM_TeamProject\\PDM_TeamProject.csproj",
-      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\source\\repos\\PDM_TeamProject\\PDM_TeamProject\\obj\\",
+      "projectPath": "D:\\facultate\\master\\anul 2\\SIMPRE ANUL 2\\bun\\PDM_TeamProject\\PDM_TeamProject.csproj",
+      "packagesPath": "C:\\Users\\40770\\.nuget\\packages\\",
+      "outputPath": "D:\\facultate\\master\\anul 2\\SIMPRE ANUL 2\\bun\\PDM_TeamProject\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\40770\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

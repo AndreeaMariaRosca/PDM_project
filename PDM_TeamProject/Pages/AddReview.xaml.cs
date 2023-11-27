@@ -8,7 +8,7 @@ public partial class AddReview : ContentPage
     public AddReviewViewModel vm;
     public AddReview(AddReviewViewModel viewModel)
     {
-        // InitializeComponent();
+        InitializeComponent();
 
         this.BindingContext = vm = viewModel;
     }

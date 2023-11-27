@@ -11,15 +11,9 @@ public partial class MainPage : ContentPage
     }
      private async void OnAllSeriesListClicked(object sender, EventArgs e)
     {
-        ((Shell)Application.Current.MainPage).GoToAsync("BrowserSeriesPage");
-    }
+        /*var browserSeriesPage = new BrowserSeriesPage();
+        await Navigation.PushAsync(browserSeriesPage);*/
 
-     private async void OnStatisticsClicked(object sender, EventArgs e)
-    {
-        ((Shell)Application.Current.MainPage).GoToAsync("StatisticsPage");
-    }
-    private async void OnAboutUsClicked(object sender, EventArgs e)
-    {
-       await Navigation.PushAsync(new AboutUsPage());
+        ((Shell)Application.Current.MainPage).GoToAsync("BrowserSeriesPage");
     }
 }
