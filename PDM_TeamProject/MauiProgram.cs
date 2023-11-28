@@ -2,6 +2,7 @@
 using PDM_TeamProject.Classes;
 using PDM_TeamProject.Pages;
 using PDM_TeamProject.ViewModels;
+using Microcharts.Maui;
 
 namespace PDM_TeamProject
 {
@@ -12,6 +13,7 @@ namespace PDM_TeamProject
             var builder = MauiApp.CreateBuilder();
             builder
                 .UseMauiApp<App>()
+                .UseMicrocharts()
                 .ConfigureFonts(fonts =>
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
