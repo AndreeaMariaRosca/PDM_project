@@ -9,6 +9,9 @@
             <Button
                     x:Name="AllSeriesListBtn"
                     Text="List of series"
+                    WidthRequest="200"
+                    HeightRequest="50"
+                    Margin="0,0,0,10"
                     SemanticProperties.Hint="Redirects to the page with all the series"
                     Clicked="OnAllSeriesListClicked"
                     HorizontalOptions="CenterAndExpand"
@@ -16,6 +19,9 @@
             <Button
                     x:Name="AboutUsBtn"
                     Text="About us"
+                    WidthRequest="200"
+                    HeightRequest="50" 
+                    Margin="0,0,0,10"
                     SemanticProperties.Hint="Redirects to the page with the details about us"
                     Clicked="OnAboutUsPageClicked"
                     HorizontalOptions="CenterAndExpand"
@@ -23,6 +29,8 @@
             <Button
                     x:Name="StatisticsBtn"
                     Text="Statistics"
+                    WidthRequest="200"
+                    HeightRequest="50" 
                     SemanticProperties.Hint="Redirects to the page with the statistics"
                     Clicked="OnStatisticsPageClicked"
                     HorizontalOptions="CenterAndExpand"

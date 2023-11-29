@@ -5,7 +5,7 @@
              Title="AboutUsPage">
     <VerticalStackLayout>
         <Label 
-            Text="Welcome to .NET MAUI!"
+            Text="Autori proiect: Elena Racaru, Andreea Rosca, Vlad Ionescu"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
     </VerticalStackLayout>
