@@ -29,7 +29,7 @@
     <AppXManifest Include="C:\Users\rinob\source\repos\PDM_project\PDM_TeamProject\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-29T18:48:03.879</Modified>
+      <Modified>2023-11-29T19:08:07.539</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rinob\source\repos\PDM_project\PDM_TeamProject\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PDM_TeamProject.dll">
       <PackagePath>PDM_TeamProject.dll</PackagePath>
-      <Modified>2023-11-29T18:48:02.779</Modified>
+      <Modified>2023-11-29T19:08:06.161</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rinob\source\repos\PDM_project\PDM_TeamProject\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>PDM_TeamProject.exe</PackagePath>
-      <Modified>2023-11-29T18:48:02.787</Modified>
+      <Modified>2023-11-29T19:08:06.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rinob\source\repos\PDM_project\PDM_TeamProject\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PDM_TeamProject.deps.json">
       <PackagePath>PDM_TeamProject.deps.json</PackagePath>
